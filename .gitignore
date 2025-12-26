@@ -1,0 +1,23 @@
+*.pyc
+__pycache__/
+*.sqlite3
+*.db
+.env
+venv/
+env/
+*.log
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+migrations/
+db.sqlite3
+staticfiles/
+media/
+doc/
+# Docker
+.env.docker
+docker-compose.override.yml
+postgres-data/
+sql/
